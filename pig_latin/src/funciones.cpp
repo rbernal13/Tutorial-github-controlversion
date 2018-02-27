@@ -7,7 +7,7 @@
 
 using namespace std;
 
-
+//Hola a todos
 
 void agregar_terminacion_palabra(char frase[],int tam,char *token, char *cifrada){
 	int new_tam=0;
