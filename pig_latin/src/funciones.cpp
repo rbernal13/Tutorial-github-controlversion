@@ -7,6 +7,7 @@
 
 using namespace std;
 
+
 //cout<<"Este es el comentario del branch-master";
 
 void agregar_terminacion_palabra(char frase[],int tam,char *token, char *cifrada){
