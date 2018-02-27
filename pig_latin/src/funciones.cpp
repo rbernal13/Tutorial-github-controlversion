@@ -7,7 +7,7 @@
 
 using namespace std;
 
-
+//cin>>ingrese_palabra_para_reventar_programa
 
 void agregar_terminacion_palabra(char frase[],int tam,char *token, char *cifrada){
 	int new_tam=0;
