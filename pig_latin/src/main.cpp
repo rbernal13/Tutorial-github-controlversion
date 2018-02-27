@@ -3,6 +3,8 @@
 #include <cstdlib>
 #include <string.h>
 
+//Taller de Richy
+
 # define p system("pause>n")
 
 

@@ -16,7 +16,7 @@ void agregar_terminacion_palabra(char frase[],int tam,char *token, char *cifrada
 	char *frase_nueva;
 	frase_nueva = new char[new_tam];
 	
-	//cout<<endl<<frase_nueva<<endl;
+	
 	strcpy(frase_nueva," ");
 	
 	token = strtok(frase," ");
